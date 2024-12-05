@@ -1,10 +1,9 @@
 # динамическая типизация
 name = "Pavel" # name-переменная, Pavel-объект
-print(name)
+print("Name:",name)
 age = 43
-print(age)
+print("Age:", age)
 new_age = age + 3
-print(new_age)
+print("New age:",new_age)
 is_student = True
-print(is_student)
-print("Name:",name,"Age:", age,"New age:",new_age, "Is student:", is_student)
+print("Is student:", is_student)
